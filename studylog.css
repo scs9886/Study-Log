@@ -1,0 +1,60 @@
+h1 {
+	font-size: 3.5em;
+}
+
+
+.total {
+	color: #00BB77;
+	font-family: times-new-roman;
+	font-weight: 600;
+	font-size: 1.2em;
+}
+
+body {
+	background: #222244;
+	color: #FFFFFF;
+	font-family: times-new-roman;
+	margin: 20px;
+}
+
+.week {
+	/*background-color: #B44010;*/
+	width: 500px;
+	font-size: 1.6em;
+}
+
+hr {
+	color: white;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.time {
+	color: #00BB99;
+	font-family: sans-serif;
+	font-weight: 600;
+	font-size: 1.2em;
+}
+
+.month {
+	font-weight: 600;
+	font-size: 2.5em;
+	border-bottom: solid white 2px;
+	padding-bottom: 5px;
+	max-width: 200px;
+	min-width: 100px;
+}
+
+div {
+	font-size: 1.1em;
+}
+
+h3 {
+	font-size: 1.3em;
+}
+
+.added {
+	border-left: 5px solid #444466;
+	padding-left: 3px;
+}
