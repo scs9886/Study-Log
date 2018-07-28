@@ -4,14 +4,16 @@ h1 {
 
 
 .total {
-	color: #00BB77;
+	color: #00DD99;
 	font-family: times-new-roman;
 	font-weight: 600;
 	font-size: 1.2em;
 }
 
 body {
-	background: #222244;
+	background: #005C97;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #363795, #005C97);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #363795, #005C97); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	color: #FFFFFF;
 	font-family: times-new-roman;
 	margin: 20px;
@@ -55,6 +57,6 @@ h3 {
 }
 
 .added {
-	border-left: 5px solid #444466;
+	border-left: 5px solid #005C97;
 	padding-left: 3px;
 }
